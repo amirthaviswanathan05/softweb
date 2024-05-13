@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-05-13 at 19 19 49_dcf3edda](https://github.com/amirthaviswanathan05/softweb/assets/149035397/b9aaa2bf-ccc1-4e5e-898d-ce63420db5f9)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
